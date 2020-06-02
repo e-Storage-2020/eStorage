@@ -9,40 +9,4 @@
          <Film>en in Black: International</Film>
       </Filmovi>
    </Glumac>
-   <Glumac>
-      <Ime>Dwayne</Ime>
-      <Prezime>Johnson</Prezime>
-      <Filmovi>
-         <Film>Baywatch</Film>
-         <Film>The Fate of the Furious</Film>
-         <Film>Jumanji: Welcome to the Jungle</Film>
-      </Filmovi>
-   </Glumac>
-   <Glumac>
-      <Ime>Jonah</Ime>
-      <Prezime>Hill</Prezime>
-      <Filmovi>
-         <Film>21 Jump Street</Film>
-         <Film>The Wolf of Wall Street</Film>
-         <Film>This Is the End</Film>
-      </Filmovi>
-   </Glumac>
-   <Glumac>
-      <Ime>Tommy</Ime>
-      <Prezime>Wiseau</Prezime>
-      <Filmovi>
-         <Film>The Room</Film>
-         <Film>Samurai Cop 2: Deadly Vengeance</Film>
-         <Film>Enter the Samurai</Film>
-      </Filmovi>
-   </Glumac>
-   <Glumac>
-      <Ime>Will</Ime>
-      <Prezime>Jaden</Prezime>
-      <Filmovi>
-         <Film>Dodatna funkcionalnost</Film>
-         <Film>Enemy of the State</Film>
-         <Film>Legendarno</Film>
-      </Filmovi>
-   </Glumac>
 </Glumci>
