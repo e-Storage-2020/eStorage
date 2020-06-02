@@ -9,4 +9,22 @@
          <Film>en in Black: International</Film>
       </Filmovi>
    </Glumac>
+   <Glumac>
+      <Ime>Chris</Ime>
+      <Prezime>Hemsworth</Prezime>
+      <Filmovi>
+         <Film>Thor</Film>
+         <Film>The Avengers</Film>
+         <Film>en in Black: International</Film>
+      </Filmovi>
+   </Glumac>
+   <Glumac>
+      <Ime>Chris</Ime>
+      <Prezime>Hemsworth</Prezime>
+      <Filmovi>
+         <Film>Thor</Film>
+         <Film>The Avengers</Film>
+         <Film>en in Black: International</Film>
+      </Filmovi>
+   </Glumac>
 </Glumci>
